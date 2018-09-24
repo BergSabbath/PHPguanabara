@@ -10,7 +10,9 @@
     <?php
        $nome = "Maria";
        $idade = 18;
-       echo "$nome tem $idade anos!";
+       $media = 4.5;
+       $penal = 1;
+       echo "$nome tem $idade anos! $media e $penal";
     ?>
 </div>
 </body>
