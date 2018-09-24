@@ -14,7 +14,8 @@
        $penal = 1;
 
     echo "$nome tem $idade anos! e $media de média escolar.
-    ainda resolvendo conflitosaheuhaeuhuheueahea"
+    ainda resolvendo conflitosaheuhaeuhuheueahea
+    111111111111111111111111111111"
 
     ?>
 </div>
