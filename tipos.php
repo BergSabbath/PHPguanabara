@@ -12,10 +12,9 @@
        $idade = 18;
        $media = 4.5;
        $penal = 1;
-
     echo "$nome tem $idade anos! e $media de média escolar.
-    ainda resolvendo conflitosaheuhaeuhuheueahea"
-
+    ainda resolvendo conflitosaheuhaeuhuheueahea
+    azsxdcfvgbhjzsxdcfvgbhzsxdcfvgbhj"
     ?>
 </div>
 </body>
